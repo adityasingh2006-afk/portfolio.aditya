@@ -49,7 +49,8 @@ VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 VITE_FIREBASE_APP_ID=your_app_id
 ```
 
-Messages are saved to the Firestore collection:
+Messages are saved to the Firestore collection for further use...
+
 
 ```text
 contactMessages
